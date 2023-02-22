@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "start": "npm run dev"
+    "start": "npm install & npm run dev"
   },
   "dependencies": {
     "react": "^18.2.0",
